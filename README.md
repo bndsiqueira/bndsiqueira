@@ -1,6 +1,6 @@
 # Bernardo Bergamini
 
-I build AI products that run in production. I'm a co-founder and the tech lead of Apex AI, and a Computer Science student at Unisinos, in Porto Alegre, Brazil.
+I'm a full-stack and app developer who builds AI products that run in production. I'm a co-founder and the tech lead of Apex AI, and a Computer Science student at Unisinos, in Porto Alegre, Brazil.
 
 ## What I'm building
 
